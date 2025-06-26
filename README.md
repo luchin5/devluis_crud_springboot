@@ -24,3 +24,5 @@ Todo el proyecto lo corrí con el IDE INTELLI J
 ## Conclusión
 
 Para ser mi primera vez con SPRING + SPRING BOOT en Intelli J se ve que es bastante fácil de crear una API REST ful
+![0_9XI4DHbHZoGzMVfD](https://github.com/user-attachments/assets/e35376dc-4cfb-48ae-b84d-18c001a174b7)
+
